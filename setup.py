@@ -33,6 +33,7 @@ setup(name='kagenomise.policy',
           'collective.dexteritytextindexer',
           'plone.app.multilingual',
           'plone.multilingualbehavior',
+          'kagenomise.products',
           # -*- Extra requirements: -*-
       ],
       extras_require={
