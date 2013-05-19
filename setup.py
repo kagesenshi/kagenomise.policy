@@ -34,6 +34,8 @@ setup(name='kagenomise.policy',
           'plone.app.multilingual',
           'plone.multilingualbehavior',
           'kagenomise.products',
+          'kagenomise.cart',
+          'kagenomise.orders',
           # -*- Extra requirements: -*-
       ],
       extras_require={
